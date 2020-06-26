@@ -1,0 +1,4 @@
+projects:
+  -defalut: jiraboard
+requirements:
+  file: requirements.txt
