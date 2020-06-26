@@ -1,4 +1,4 @@
 projects:
-  -defalut: jiraboard
+  -defalut: 12345
 requirements:
   file: requirements.txt
